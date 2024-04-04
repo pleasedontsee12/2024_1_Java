@@ -1,8 +1,8 @@
 import java.io.*;
 
 class Point_2{
-    int x;
-    int y;
+    private int x;
+    private int y;
 
     void set_xy(int x, int y){
         if(x < 0) System.err.println("Value of x is invalid");
@@ -30,7 +30,7 @@ class Point_2{
     }
 }
 
-class STEP_05_02_Point2{
+class STEP_05_Point2{
     public static void main(String[] args) throws IOException{
         Point_2 pnt1 = new Point_2();
         Point_2 pnt2 = new Point_2();
