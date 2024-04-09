@@ -84,7 +84,7 @@ class Line_2 extends Point_2{
         }
     }
 }
-// https://velog.io/@rhdmstj17/java.-super%EC%99%80-super-%EC%99%84%EB%B2%BD%ED%95%98%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
+
 class STEP_06_PointLine_2{
     public static void main(String[] args) throws IOException{
         int x,y,a,b;
