@@ -1,12 +1,12 @@
 package STEP_07.W3.line;
+import STEP_07.W3.*;
 
-
-public class Line_3 extends STEP_07.W3.point.Point_3{
+public class Line_3 extends point1.Point_3{
     int a;
     int b;
 
     public Line_3(int x, int y, int a, int b){
-        super(x, y);
+        super();
         this.a = a;
         this.b = b;
     }

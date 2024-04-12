@@ -1,6 +1,7 @@
 package STEP_07.W3;
 import java.io.IOException;
 
+
 public class STEP_07_PointLine_3 {
     public static void main(String[] args) throws IOException{
         int x,y,a,b;

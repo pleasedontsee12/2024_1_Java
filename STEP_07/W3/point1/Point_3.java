@@ -1,4 +1,4 @@
-package STEP_07.W3.point;
+package STEP_07.W3.point1;
 
 public class Point_3 {
     public int x;
