@@ -1,5 +1,5 @@
-package Humidity;
-import Measure.*;
+package humi;
+import measure.*;
 
 public class Humidity extends Measure{
     double[] H_data;

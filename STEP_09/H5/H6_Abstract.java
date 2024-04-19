@@ -1,12 +1,13 @@
 import java.io.IOException;
+import Humidity.*;
+import Temperature.*;
 
-
-public class Abstract2 {
+public class H6_Abstract {
     public static void main(String[] args) throws IOException{
         double[] humi_dl = new double[3];
         double[] temp_dl = new double[3];
 
-        temp_dl[0] = 19.1;
+        temp_dl[0] = 19.2;
         temp_dl[1] = 20.3;
         temp_dl[2] = 18.7;
         humi_dl[0] = 90.1;

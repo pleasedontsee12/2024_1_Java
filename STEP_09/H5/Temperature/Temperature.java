@@ -1,6 +1,7 @@
 package Temperature;
 import Measure.*;
 
+
 public class Temperature extends Measure{
     double[] T_data;
     public Temperature(double[] Temp){

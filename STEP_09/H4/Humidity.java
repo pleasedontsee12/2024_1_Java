@@ -1,7 +1,4 @@
-package Humidity;
-import Measure.*;
-
-public class Humidity extends Measure{
+public class Humidity implements Measure{
     double[] H_data;
     public Humidity(double[] Humi){
         H_data = new double[3];

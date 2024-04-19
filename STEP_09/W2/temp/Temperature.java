@@ -1,5 +1,5 @@
-package Temperature;
-import Measure.*;
+package temp;
+import measure.*;
 
 public class Temperature extends Measure{
     double[] T_data;
