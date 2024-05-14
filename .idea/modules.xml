@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/STEP_00/STEP_00.iml" filepath="$PROJECT_DIR$/STEP_00/STEP_00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STEP_01/STEP_01.iml" filepath="$PROJECT_DIR$/STEP_01/STEP_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STEP_02/STEP_02.iml" filepath="$PROJECT_DIR$/STEP_02/STEP_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STEP_04/STEP_04.iml" filepath="$PROJECT_DIR$/STEP_04/STEP_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STEP_05/STEP_05.iml" filepath="$PROJECT_DIR$/STEP_05/STEP_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STEP_06/STEP_06.iml" filepath="$PROJECT_DIR$/STEP_06/STEP_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STEP_07/STEP_07.iml" filepath="$PROJECT_DIR$/STEP_07/STEP_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STEP_09/STEP_09.iml" filepath="$PROJECT_DIR$/STEP_09/STEP_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inuya.iml" filepath="$PROJECT_DIR$/inuya.iml" />
+    </modules>
+  </component>
+</project>

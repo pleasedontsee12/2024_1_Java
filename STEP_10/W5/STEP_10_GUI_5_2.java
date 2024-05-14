@@ -10,6 +10,7 @@ public class STEP_10_GUI_5_2 implements ActionListener{
             setBackground(Color.gray);
             setPreferredSize(new Dimension(400,400));
         }
+        
         public void paintComponent(Graphics g){
             i++;
             g.setColor(Color.red);
