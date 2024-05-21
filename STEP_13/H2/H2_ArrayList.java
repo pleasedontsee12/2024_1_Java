@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.*;
 
 class Student{
     private String name;
@@ -36,11 +36,10 @@ class ArrLst_Std{
                 Student s1 = als.get(maxi);
                 Student s2 = als.get(j);
                 if (s1.getName().compareTo(s2.getName()) < 0 ||
-                    (s1.getName().equals(s2.getName()) && s1.getAge() < s2.getAge())) {
+                    (s1.getName().compareTo(s2.getName()) == 0 && s1.getAge() < s2.getAge())) {
                     maxi = j;
                 }
             }
-            
             Student temp = als.get(i);
             als.set(i, als.get(maxi));
             als.set(maxi, temp);
